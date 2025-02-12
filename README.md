@@ -10,5 +10,5 @@
 ---
 
 ### 📫 **Connect with Me**
-🔗 reejandahal26@gmail.com | 💼 https://www.linkedin.com/in/reejan-dahal-4b5821346/(#)
+🔗 reejandahal26@gmail.com  |  💼 https://www.linkedin.com/in/reejan-dahal-4b5821346/(#)
 
