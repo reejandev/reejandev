@@ -1,15 +1,21 @@
-## 👋 Hi, I'm Reejan Dahal !
+<h1 align="center">👋 Hi, I'm Reejan Dahal</h1>
 
-🚀 Web Nova | 💻 Web Developer
-
-🔧 Building **modern and high-performance websites**  
-🚀 Passionate about **tech, innovation**, and learning **data analytics & system**  
-📊 Exploring **data-driven decision making** and **system optimization**  
-⚡ Always eager to **expand knowledge** and **embrace new challenges**
+<p align="center">
+  🚀 Web Developer @ <strong>Web Nova</strong> &nbsp;|&nbsp; 🌍 Based in Toronto, Canada  
+</p>
 
 ---
 
-## 💻 Languages I Use
+### 💼 About Me
+
+- 🔧 Building **modern, responsive websites** and clean user interfaces  
+- 🎯 Passionate about **tech, innovation**, and exploring **data-driven decisions**  
+- 📚 Currently learning **backend systems** and **system optimization**  
+- ⚡ Always eager to expand my knowledge and embrace new challenges  
+
+---
+
+### 💻 Languages I Use
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
@@ -20,12 +26,26 @@
 
 ---
 
-## 🌱 Most Used Languages
+### 🌱 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reejand26&layout=compact&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Reejan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reejand26&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=reejand26&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 👁‍🗨 Visitor Badge
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=reejand26.reejand26)
+
+---
