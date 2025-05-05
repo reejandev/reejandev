@@ -43,10 +43,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=reejand26&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
-
-### 👁‍🗨 Visitor Badge
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/reejand26&count_bg=%237C83F6&title_bg=%231A1A1A&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)
-)
-
----
