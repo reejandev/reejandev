@@ -28,18 +28,18 @@
 
 ### 🌱 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reejand26&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdahal3&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Reejan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reejand26&show_icons=true&theme=tokyonight)
+![Reejan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdahal3&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reejand26&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rdahal3&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
