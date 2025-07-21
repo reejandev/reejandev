@@ -28,13 +28,13 @@
 
 ### 🌱 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reejan.dev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reejandev&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📈 GitHub Stats
 
-![Reejan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reejan.dev&show_icons=true&theme=tokyonight)
+![Reejan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reejandev&show_icons=true&theme=tokyonight)
 
 ---
 
